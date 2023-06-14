@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:hitsuji2001/blogger-api.git
+[submodule "webapp"]
+	path = webapp
+	url = git@github.com:hitsuji2001/blogger-fe.git
